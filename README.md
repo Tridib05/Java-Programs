@@ -15,4 +15,4 @@
 8. Wrapper Classes.
 9. Comparator and Comparable interface
 10.Exception Handling
-11. Generics
+
