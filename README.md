@@ -12,7 +12,7 @@
       - Observer design pattern
       - Decorator design pattern
 7. String Class 
-8. Wrapper Classes.
+8. Wrapper Classes
 9. Comparator and Comparable interface
 10.Exception Handling
 
