@@ -1,15 +1,16 @@
 # Java Practice Programs 
 
 1. Basic Programs
-2. Math Programs, Bit Manipulation 
-3. Pattern Program
-4. Object Oriented Programming Concepts Examples.
+2. Arrays
+3. Math Programs, Bit Manipulation 
+4. Pattern Program
+5. Object Oriented Programming Concepts Examples.
    (Class and Objects, Inheritence,Polymorphism, Abstraction, Encapsulation)
-5. Interface Examples
-6. Design Patterns - 
+6. Interface Examples
+7. Design Patterns - 
       - Factory design pattern
       - Singleton design pattern
       - Observer design pattern
       - Decorator design pattern
-7. String Class 
-8. Lab Work
+8. String Class 
+9. Lab Work
